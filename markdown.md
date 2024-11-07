@@ -1,15 +1,19 @@
 
  <h1 Summarizing Fundamental Security Concepts>
   <h2 Confidentiality: Ensures sensitive information remains shielded and access is granted only to authorized users.
-     Integrity: Ensures data remains unaltered and trustworthy.
-     Availability: Guarantees that digital assets and services are accessible when needed.
-     Non-repudiation: Ensures that actions cannot be denied.
-     Authentication, Authorization, and Accounting (AAA): Key principles for managing user access.>
+    Integrity: Ensures data remains unaltered and trustworthy.
+    Availability: Guarantees that digital assets and services are accessible when needed.
+    Non-repudiation: Ensures that actions cannot be denied.
+    Authentication, Authorization, and Accounting (AAA): Key principles for managing user access.>
+
   </table A process that companies use to confirm that only the right people, services, and apps with the right permissions can get organizational resources. Take the iPhone, for example. Unlocking the early versions required a multi-digit passcode. Then Apple introduced Touch ID, which would unlock the phone with a fingerprint reader. The latest version, just out, is the iPhone X, which can use its camera to perform facial recognition to authenticate a user.>
     <h2 Gap analysis: Identifies security weaknesses>
+
   <h3 Password-based authentication>
+
    </table Password-based authentication is the most common form of authentication. Many apps and services require people to create passwords that use a combination of numbers, letters, and symbols to reduce the risk that a bad actor will guess them. However, passwords also create security and usability challenges. It’s difficult for people to come up with and memorize a unique password for each of their online accounts, which is why they often reuse passwords. And attackers use many tactics to guess or steal passwords or lure people into sharing them unwillingly. For this reason, organizations are moving away from passwords to other more secure forms of authentication.>
   <h3 Certificate-based authentication>
+
   <table Certificate-based authentication is an encrypted method that enables devices and people to identify themselves to other devices and systems. Two common examples are a smart card or when an employee’s device sends a digital certificate to a network or server.>
   <h3> Biometric authentication
     In biometric authentication, people verify their identity using biological features. For example, many people use their finger or thumb to sign in to their phones, and some computers scan a person’s face or retina to verify their identity. This type of authentication is increasingly popular because it’s easy for people—they don’t have to memorize anything—and it’s difficult for bad actors to steal, making it more secure than passwords.
