@@ -15,8 +15,8 @@
   <h3 Certificate-based authentication>
 
   <table Certificate-based authentication is an encrypted method that enables devices and people to identify themselves to other devices and systems. Two common examples are a smart card or when an employee’s device sends a digital certificate to a network or server.>
-  <h3> Biometric authentication
-    In biometric authentication, people verify their identity using biological features. For example, many people use their finger or thumb to sign in to their phones, and some computers scan a person’s face or retina to verify their identity. This type of authentication is increasingly popular because it’s easy for people—they don’t have to memorize anything—and it’s difficult for bad actors to steal, making it more secure than passwords.
+  <h3 Biometric authentication>
+   </table In biometric authentication, people verify their identity using biological features. For example, many people use their finger or thumb to sign in to their phones, and some computers scan a person’s face or retina to verify their identity. This type of authentication is increasingly popular because it’s easy for people—they don’t have to memorize anything—and it’s difficult for bad actors to steal, making it more secure than passwords.>
   <h3> Token-based authentication
      In token-based authentication both a device and the system generate a new unique number called a time-based one-time PIN (TOTP) every 30 seconds. If the numbers match, the system verifies that the user has the device.
   <h3> One-time password
