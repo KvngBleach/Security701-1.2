@@ -1,13 +1,14 @@
 
- <h1 Summarizing Fundamental Security Concepts>
-  <h2 Confidentiality: Ensures sensitive information remains shielded and access is granted only to authorized users.
+<h1 Summarizing Fundamental Security Concepts>
+<h2 Confidentiality: Ensures sensitive information remains shielded and access is granted only to authorized users.
     Integrity: Ensures data remains unaltered and trustworthy.
     Availability: Guarantees that digital assets and services are accessible when needed.
     Non-repudiation: Ensures that actions cannot be denied.
     Authentication, Authorization, and Accounting (AAA): Key principles for managing user access.>
 
   </table A process that companies use to confirm that only the right people, services, and apps with the right permissions can get organizational resources. Take the iPhone, for example. Unlocking the early versions required a multi-digit passcode. Then Apple introduced Touch ID, which would unlock the phone with a fingerprint reader. The latest version, just out, is the iPhone X, which can use its camera to perform facial recognition to authenticate a user.>
-    <h2 Gap analysis: Identifies security weaknesses>
+
+<h2 Gap analysis: Identifies security weaknesses>
 
   <h3 Password-based authentication>
 
@@ -17,8 +18,8 @@
   <table Certificate-based authentication is an encrypted method that enables devices and people to identify themselves to other devices and systems. Two common examples are a smart card or when an employee’s device sends a digital certificate to a network or server.>
   <h3 Biometric authentication>
    </table In biometric authentication, people verify their identity using biological features. For example, many people use their finger or thumb to sign in to their phones, and some computers scan a person’s face or retina to verify their identity. This type of authentication is increasingly popular because it’s easy for people—they don’t have to memorize anything—and it’s difficult for bad actors to steal, making it more secure than passwords.>
-  <h3> Token-based authentication
-     In token-based authentication both a device and the system generate a new unique number called a time-based one-time PIN (TOTP) every 30 seconds. If the numbers match, the system verifies that the user has the device.
+  <h3 Token-based authentication>
+     </table In token-based authentication both a device and the system generate a new unique number called a time-based one-time PIN (TOTP) every 30 seconds. If the numbers match, the system verifies that the user has the device.>
   <h3> One-time password
       One-time passwords (OTP) are codes generated for a specific sign-in event that expire shortly after they’re issued. They are delivered via SMS messages, email, or a hardware token.
   <h3> Multifactor authentication
