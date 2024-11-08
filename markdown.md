@@ -29,11 +29,11 @@
      </table> One-time passwords (OTP) are codes generated for a specific sign-in event that expire shortly after they’re issued. They are delivered via SMS messages, email, or a hardware token.
 
   <h3 Multifactor authentication>
-  
+
      </table> One of the best ways to cut down on account compromise is to require two or more authentication methods, which may include any of the previously listed methods. An effective best practice is to require any two of the following:
-      Something the user knows, typically a password.
-      Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
-      Something the user is, like a fingerprint or face scan.
+      * Something the user knows, typically a password.
+      *  Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
+      *  Something the user is, like a fingerprint or face scan.
 Zero Trust: A security model that assumes no trust by default.
 
 Physical security: Protects against physical threats.
