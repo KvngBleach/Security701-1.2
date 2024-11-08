@@ -6,11 +6,9 @@
     Non-repudiation: Ensures that actions cannot be denied.
     Authentication, Authorization, and Accounting (AAA): Key principles for managing user access.>
 
-  </table A process that companies use to confirm that only the right people, services, and apps with the right permissions can get organizational resources. Take the iPhone, for example. Unlocking the early versions required a multi-digit passcode. Then Apple introduced Touch ID, which would unlock the phone with a fingerprint reader. The latest version, just out, is the iPhone X, which can use its camera to perform facial recognition to authenticate a user.>
-
-<h2 Gap analysis: Identifies security weaknesses>
-
-  <h3 Password-based authentication>
+  </table> A process that companies use to confirm that only the right people, services, and apps with the right permissions can get organizational resources. Take the iPhone, for example. Unlocking the early versions required a multi-digit passcode. Then Apple introduced Touch ID, which would unlock the phone with a fingerprint reader. The latest version, just out, is the iPhone X, which can use its camera to perform facial recognition to authenticate a user.
+  
+   <h3 Password-based authentication>
 
    </table> Password-based authentication is the most common form of authentication. Many apps and services require people to create passwords that use a combination of numbers, letters, and symbols to reduce the risk that a bad actor will guess them. However, passwords also create security and usability challenges. It’s difficult for people to come up with and memorize a unique password for each of their online accounts, which is why they often reuse passwords. And attackers use many tactics to guess or steal passwords or lure people into sharing them unwillingly. For this reason, organizations are moving away from passwords to other more secure forms of authentication.
 
@@ -21,6 +19,7 @@
   <h3 Biometric authentication>
 
    </table> In biometric authentication, people verify their identity using biological features. For example, many people use their finger or thumb to sign in to their phones, and some computers scan a person’s face or retina to verify their identity. This type of authentication is increasingly popular because it’s easy for people—they don’t have to memorize anything—and it’s difficult for bad actors to steal, making it more secure than passwords.
+ 
   <h3 Token-based authentication>
 
      </table> In token-based authentication both a device and the system generate a new unique number called a time-based one-time PIN (TOTP) every 30 seconds. If the numbers match, the system verifies that the user has the device.
@@ -32,8 +31,13 @@
 
      </table> One of the best ways to cut down on account compromise is to require two or more authentication methods, which may include any of the previously listed methods. An effective best practice is to require any two of the following:
       * Something the user knows, typically a password.
-      *  Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
-      *  Something the user is, like a fingerprint or face scan.
+      * Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
+      * Something the user is, like a fingerprint or face scan.
+
+<h2 Gap analysis: Identifies security weaknesses>
+
+</table> A security vulnerability is an unintended characteristic of a computing component or system configuration that multiplies the risk of an adverse event or a loss occurring either due to accidental exposure, deliberate attack, or conflict with new system components. A vulnerability can be fixed using a software patch, reconfiguration, user training, firmware update, or hardware replacement.
+
 Zero Trust: A security model that assumes no trust by default.
 
 Physical security: Protects against physical threats.
