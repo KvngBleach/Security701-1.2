@@ -53,8 +53,32 @@
 
 * Once an attacker gains access to a compromised system, they can exploit these trust configuration vulnerabilities to spread the infection from the original system and bring down your entire IT environment. 
 
-Zero Trust: A security model that assumes no trust by default.
+<h2 Zero Trust: A security model that assumes no trust by default.>
 
-Physical security: Protects against physical threats.
+</table> Zero Trust is a security concept that assumes no trust by default, whether access attempts come from within or outside a network's perimeters. It requires every user and device to be verified and authorized before gaining access to network resources. This strict verification helps prevent data breaches by ensuring that trust is never assumed, regardless of the origin of the access attempt. By not assuming trust and requiring continuous verification, Zero Trust minimizes unauthorized access and potential internal and external threats. Organizations benefit through enhanced security, compliance with regulatory requirements, and reduced risk of data breaches.
+
+* Zero Trust means no trust is assumed by default and verification is required from everyone.
+* It enhances security by requiring stringent verification for every access attempt.
+* This approach helps prevent breaches by ensuring no implicit trust is given.
+* Zero Trust is technology-agnostic and applies to all network resources.
+
+</table> Zero Trust operates on the principle that both internal and external threats exist at all times, making it essential to verify everything trying to connect to the system before granting access. Here's a deeper dive into the workings and benefits of Zero Trust:
+
+<h3 Principles of Zero Trust>
+
+* No implicit trust: Trust is not assumed based on location (inside or outside the network).
+* Least privilege access: Users are granted the minimum access necessary for their tasks.
+* Microsegmentation: The network is divided into secure zones, and users must be authorized to access each zone.
+* Multi-factor authentication (MFA): MFA is mandatory, enhancing security by adding multiple layers of verification.
+
+<h3 Benefits of Zero Trust>
+
+* Enhanced security: By verifying every access attempt, Zero Trust minimizes the potential for unauthorized access and breaches.
+* Reduced attack surface: Microsegmentation and least privilege access reduce the number of vulnerable points.
+* Compliance: Zero Trust helps organizations meet stringent regulatory requirements by providing robust security controls.
+
+<h2 Physical security: Protects against physical threats.>
+
+</table> A physical threat is a potential cause of an incident that can result in loss or physical harm to the computer systems. Physical security is represented as the security of personnel, hardware, programs, networks, and data from physical situations and events that can support severe losses or harm to an enterprise, departments, or organization.Physical threat to a computer system can be as an outcome of loss of the entire computer system, damage of hardware, damage to the computer software, theft of the computer system, vandalism, natural disaster including flood, fire, war, earthquakes etc.
 
 Deceptive and disruption technology: Techniques to mislead or disrupt attackers.
