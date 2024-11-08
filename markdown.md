@@ -13,6 +13,7 @@
   <h3 Password-based authentication>
 
    </table> Password-based authentication is the most common form of authentication. Many apps and services require people to create passwords that use a combination of numbers, letters, and symbols to reduce the risk that a bad actor will guess them. However, passwords also create security and usability challenges. It’s difficult for people to come up with and memorize a unique password for each of their online accounts, which is why they often reuse passwords. And attackers use many tactics to guess or steal passwords or lure people into sharing them unwillingly. For this reason, organizations are moving away from passwords to other more secure forms of authentication.
+
   <h3 Certificate-based authentication>
 
   <table> Certificate-based authentication is an encrypted method that enables devices and people to identify themselves to other devices and systems. Two common examples are a smart card or when an employee’s device sends a digital certificate to a network or server.
@@ -28,6 +29,7 @@
      </table> One-time passwords (OTP) are codes generated for a specific sign-in event that expire shortly after they’re issued. They are delivered via SMS messages, email, or a hardware token.
 
   <h3 Multifactor authentication>
+  
      </table> One of the best ways to cut down on account compromise is to require two or more authentication methods, which may include any of the previously listed methods. An effective best practice is to require any two of the following:
       Something the user knows, typically a password.
       Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
