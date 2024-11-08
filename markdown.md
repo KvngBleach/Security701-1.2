@@ -81,4 +81,20 @@
 
 </table> A physical threat is a potential cause of an incident that can result in loss or physical harm to the computer systems. Physical security is represented as the security of personnel, hardware, programs, networks, and data from physical situations and events that can support severe losses or harm to an enterprise, departments, or organization.Physical threat to a computer system can be as an outcome of loss of the entire computer system, damage of hardware, damage to the computer software, theft of the computer system, vandalism, natural disaster including flood, fire, war, earthquakes etc.
 
+<h3 Unauthorized Access> 
+
+</table> One of the most common security risks regarding computerized information systems is the hazard of unauthorized access to confidential information .The main concern appears from unwanted intruders, or hackers, who use the current technology and their skills to divide into supposedly secure computers or to exhaust them. A person who gains access to data system for malicious reason is often termed of cracker instead of a hacker.
+
+<h3 Computer Viruses>
+
+</table> Computer virus is a type of nasty application written deliberately to enter a computer without the user’s permission or knowledge, with an ability to duplicate itself, therefore continuing to spread. Some viruses do small but duplicate others can cause severe harm or adversely influence program and implementation of the system.
+
+<h3 Vandalism>
+
+</table> Deliberate damage cause to hardware, software and data is treated as serious threat to information system security. The threat from destruction lies in the fact that the organization is temporarily refused access to someone of its resources. Even relatively minor damage to an element of a system can have an essential effect on the organization as a whole.
+
+<h3 Accidents>
+
+</table> Accidental misuse or damage will be influenced over time by the attitude and disposition of the staff in addition to the environment. Human errors have a higher impact on information system security than do manmade threats caused by purposeful attacks. But most accidents that are serious threats to the security of information systems can be diminished.
+
 Deceptive and disruption technology: Techniques to mislead or disrupt attackers.
