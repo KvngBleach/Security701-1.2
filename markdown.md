@@ -30,13 +30,28 @@
   <h3 Multifactor authentication>
 
      </table> One of the best ways to cut down on account compromise is to require two or more authentication methods, which may include any of the previously listed methods. An effective best practice is to require any two of the following:
-      * Something the user knows, typically a password.
-      * Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
-      * Something the user is, like a fingerprint or face scan.
+
+  * Something the user knows, typically a password.
+  * Something they have, such as a trusted device that is not easily duplicated, like a phone or hardware token.
+  * Something the user is, like a fingerprint or face scan.
 
 <h2 Gap analysis: Identifies security weaknesses>
 
 </table> A security vulnerability is an unintended characteristic of a computing component or system configuration that multiplies the risk of an adverse event or a loss occurring either due to accidental exposure, deliberate attack, or conflict with new system components. A vulnerability can be fixed using a software patch, reconfiguration, user training, firmware update, or hardware replacement.
+
+* Code vulnerabilities creep in right at the time of software development. There might be logical errors that lead to security flaws.
+* The software might inadvertently transfer sensitive data without encryption, or even if it uses randomized encryption strings, they aren’t random enough.
+* Ideally, all of these vulnerabilities should be picked up and patched during testing. But if not, could lead to potiential data breaches.
+
+<h3  Misconfigured system components>
+
+</table> Misconfigurations are another common error when setting up enterprise IT systems. At the very basic level, for example, the administrator might forget to switch from a software’s default configurations, thereby leaving the system open to vulnerabilities. Incorrectly configured cloud systems, network misconfigurations, hurriedly set up Wi-Fi environments, and even the failure to restrict non-work device usage could exponentially multiply your risk exposure. Fortunately, these vulnerabilities are relatively easy to fix – they are typically the result of an overburdened IT team, requiring the intervention of extra hands, preferably a managed services provider. 
+
+<h3 Trust configurations>
+
+</table> Trust configurations refer to the allowances you make for data exchange to and from software and hardware systems. For example, a mounted hard disk might be able to read sensitive data from a computing client without necessitating any extra privileges. Trust relationships may exist between active directories and account records, leading to unmitigated data flow between sources that aren’t constantly monitored.
+
+* Once an attacker gains access to a compromised system, they can exploit these trust configuration vulnerabilities to spread the infection from the original system and bring down your entire IT environment. 
 
 Zero Trust: A security model that assumes no trust by default.
 
