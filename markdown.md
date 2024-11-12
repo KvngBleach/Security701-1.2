@@ -117,10 +117,17 @@
 
 #### How do Honeynets Work?
 
-</table> Honeypots deliberately incorporate security vulnerabilities like weak passwords and software flaws. Mirroring authentic systems, honeypots mimic organizations’ billing systems, operating systems holding seemingly sensitive data, web applications, and other common targets.
+</table> Honeypots deliberately incorporate security vulnerabilities like weak passwords and software flaws. Mirroring authentic systems, honeypots mimic organizations’ billing systems, operating systems holding seemingly sensitive data, web applications, and other common targets. Gathering substantial evidence of attacks, honeypots reveal tactical insights, such as indicators of compromise, intrusion techniques, lateral movement sequences, details of attacker tools, and more. This information’s comprehensive analysis enables organizations to enhance their security defenses proactively. There are three types of honeypots:
 
-Gathering substantial evidence of attacks, honeypots reveal tactical insights, such as indicators of compromise, intrusion techniques, lateral movement sequences, details of attacker tools, and more. This information’s comprehensive analysis enables organizations to enhance their security defenses proactively. 
+   1. Email Honeypot
+Email honeypots are decoy email addresses created to attract spam and phishing attempts. Emails received at these fake email addresses can be analyzed to understand spam trends and behaviors and identify potential threats.
+
+   2. Malware Honeypot
+These are systems designed to capture various types of malware, such as worms, trojans, viruses, and more. Malware honeypots mimic vulnerable systems to entice threat actors into targeting them, providing cybersecurity experts with insights on attack executions and new malware variants.
+
+   3. Database Honeypot
+Database honeypots are crafted databases made to appear as valuable targets to potential malicious actors. They contain seemingly authentic data and resources to lure attackers, which enables organizations to detect and study data breaches and infiltration attempts.
 
 ### Benefits
 
-</table> Cyber deception complements existing security controls by detecting discovery, lateral movement, privilege escalation and collection activities that other tools are not designed to address. The technology is highly scalable, which allows it to protect an ever-evolving attack surface.
+</table> Cyber deception complements existing security controls by detecting discovery, lateral movement, privilege escalation and collection activities that other tools are not designed to address. The technology is highly scalable, which allows it to protect an ever-evolving attack surface. Many of the attack activities that deception provides visibility to are traditionally challenging to detect. The ability to deceive, direct, and guide the adversary away from critical assets denies them their goals and reveals how they want to move through the networks. It also holds the benefit of increasing the attacker’s cost, because they must now decipher what is real from what is fake and forces them to restart their attacks.
