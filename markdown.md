@@ -33,7 +33,7 @@
    
       One-time passwords (OTP) are codes generated for a specific sign-in event that expire shortly after they’re issued. They are delivered via SMS messages, email, or a hardware token.
 
-## Multifactor authentication
+### Multifactor authentication
 
      One of the best ways to cut down on account compromise is to require two or more authentication methods, which may include any of the previously listed methods. An effective best practice is to require any two of the following:
 
