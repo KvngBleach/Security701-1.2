@@ -105,4 +105,22 @@
 
 ## Deceptive and disruption technology: Techniques to mislead or disrupt attackers.
 
-</table> 
+</table> Deception technology is a strategy to attract cyber criminals away from an enterprise's true assets and divert them to a decoy or trap. Deception technology enables defenders to identify a wide variety of attack methods without relying on known signatures or pattern matching. Deception technology is available as a full deception fabric or platform, as features within a broader platform and as independent solutions. Advanced deception platforms use machine learning for fast and accurate deployment and operations without disrupting other network functions (Honeynet, Honeypot, Honeyfile, and Honeytoken)
+
+### Honeypots
+
+</table> Honeypots are computer systems designed as decoys to trick threat actors into believing they’re infiltrating a legitimate target. These strategically crafted traps play an important role in cybersecurity research, enabling experts to gain valuable insights into cyberattacks and the tactics employed by threat actors. By enticing and luring threat actors, honeypots allow organizations to proactively identify, evaluate, and deflect attempts to breach their actual systems.
+
+### Honeynets
+
+</table> Honeynets are decoy networks comprised of interconnected honeypots and seemingly authentic systems and data. Cybersecurity teams use honeynets to study how threat actors operate on a larger scale. Organizations can strengthen their defenses and proactively safeguard their assets by analyzing exploits that threat actors leverage against entire networks. 
+
+#### How do Honeynets Work?
+
+</table> Honeypots deliberately incorporate security vulnerabilities like weak passwords and software flaws. Mirroring authentic systems, honeypots mimic organizations’ billing systems, operating systems holding seemingly sensitive data, web applications, and other common targets.
+
+Gathering substantial evidence of attacks, honeypots reveal tactical insights, such as indicators of compromise, intrusion techniques, lateral movement sequences, details of attacker tools, and more. This information’s comprehensive analysis enables organizations to enhance their security defenses proactively. 
+
+### Benefits
+
+</table> Cyber deception complements existing security controls by detecting discovery, lateral movement, privilege escalation and collection activities that other tools are not designed to address. The technology is highly scalable, which allows it to protect an ever-evolving attack surface.
