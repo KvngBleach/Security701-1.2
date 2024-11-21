@@ -17,7 +17,7 @@
 
      Password-based authentication is the most common form of authentication. Many apps and services require people to create passwords that use a combination of numbers, letters, and symbols to reduce the risk that a bad actor will guess them. However, passwords also create security and usability challenges. It’s difficult for people to come up with and memorize a unique password for each of their online accounts, which is why they often reuse passwords. And attackers use many tactics to guess or steal passwords or lure people into sharing them unwillingly. For this reason, organizations are moving away from passwords to other more secure forms of authentication.
 
-### Certificate-based authentication>
+### Certificate-based authentication
 
  Certificate-based authentication is an encrypted method that enables devices and people to identify themselves to other devices and systems. Two common examples are a smart card or when an employee’s device sends a digital certificate to a network or server.
 
@@ -25,7 +25,7 @@
 
     In biometric authentication, people verify their identity using biological features. For example, many people use their finger or thumb to sign in to their phones, and some computers scan a person’s face or retina to verify their identity. This type of authentication is increasingly popular because it’s easy for people—they don’t have to memorize anything—and it’s difficult for bad actors to steal, making it more secure than passwords.
  
- ### Token-based authentication>
+ ### Token-based authentication
 
    In token-based authentication both a device and the system generate a new unique number called a time-based one-time PIN (TOTP) every 30 seconds. If the numbers match, the system verifies that the user has the device.
 
